@@ -283,9 +283,19 @@ Use addArtist to do the following:
 
 Example: addArtist(artists) should return the artists array with the above object added to the end of the array. */
 
-function addArtist(/*Your Code Here*/) {
-  /*Your Code Here*/
+function addArtist(array) {
+  let objectAdd = {
+    id: 20,
+    name: "Russ Eskew",
+    years: "1971 - Present",
+    genre: "Web Design",
+    nationality: "American",
+    bio: "A bit about me.",
+  };
+  array.push(objectAdd);
+  return array;
 }
+addArtist(artists);
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 7: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 Use lotsOfArt to do the following: 
