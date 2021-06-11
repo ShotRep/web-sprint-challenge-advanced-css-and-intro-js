@@ -208,7 +208,7 @@ button:hover {
 /* media queries */
 /* using max-width for desktop first design */
 
-/* TEST BREAK POINT @500px */
+/* DARK MODE @500px */
 @media (max-width: 500px) {
   body,
   a {
