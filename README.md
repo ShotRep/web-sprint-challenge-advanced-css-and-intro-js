@@ -22,10 +22,17 @@ Commit your code regularly and meaningfully.
 
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
-1. How would you describe accessibility on the web to someone new to programming?
+1. How would you describe accessibility on the web to someone new to programming?  
+   A: I believe so, making websites is a very important subject I never really considered until now.  Making websites accessible for everyone is actually easily done with several tools at your fingertips.  Semantic tags - setting proper sizing viewport with @media break points and flexible units all allow us to make accessible web pages for everyone.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
-3. How would you explain the concept of a variable to someone new to programming?
+  A: kind of covered it above but a quick recap would be Semantic tags - setting viewport in header / @media break points - rem vs px are simple tools to use when writing HTML/CSS
+
+3. How would you explain the concept of a variable to someone new to programming? 
+  A: I would say a variable is a place holder for data to be assigned.  let - const are the 2 variables we are using in modern JS.
+
 4. What is the purpose of using functions in code?
+   A: I see functions as containers for code allowing us to execute with 1 simple call. 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
